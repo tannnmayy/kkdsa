@@ -45,6 +45,6 @@ public class Input {
         // modify
         str[1] = "kunal";
 
-        System.out.println(Arrays.toString(str));
+        System.out.println(Arrays.toString(arre));
     }
 }
