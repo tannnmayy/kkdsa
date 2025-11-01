@@ -13,8 +13,7 @@ public class value {
     static void change(int[] nums){
         nums[0] = 99;
         nums[3] = 99;   // if we make a change in the object via this reference variabl, the same object will be changed
-
-
+ 
     }
 }
 
